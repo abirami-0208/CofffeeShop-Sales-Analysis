@@ -48,19 +48,12 @@ Total Sales  : $699k
 Total Quantity Sold : 214470
 Total Orders : 149116
 
-DAILY AVERAGE SALE 
-    The  average sales refers to the average revenue or sales amount generated over the past six months. This metric provides insight into sales performance trends over a medium-term period.
-The business achieved an average daily sales  of $3,861 over the past six months.
+DAILY AVERAGE SALE  - The  average sales refers to the average revenue or sales amount generated over the past six months. This metric provides insight into sales performance trends over a medium-term period. The business achieved an average daily sales  of $3,861 over the past six months.
 
-MONTH WISE ANALYSIS
-    Compared to January, sales saw a decrease in February due to factors like seasonal changes and shorter month length. However, after February, sales began to increase, suggesting a recovery in customer demand and improved business performance.
-Over the Six-month period, June has the highest sale of $166k and  February has the lowest sale of $76k.
+MONTH WISE ANALYSIS - Compared to January, sales saw a decrease in February due to factors like seasonal changes and shorter month length. However, after February, sales began to increase, suggesting a recovery in customer demand and improved business performance. Over the Six-month period, June has the highest sale of $166k and  February has the lowest sale of $76k.
 
-WEEKDAY/ WEEKEND ANALYSIS
-    The 72% of total sales occurred on weekdays, this indicates that weekdays significantly outperformed weekends in terms of revenue. 
+WEEKDAY/ WEEKEND ANALYSIS - The 72% of total sales occurred on weekdays, this indicates that weekdays significantly outperformed weekends in terms of revenue. 
 
-STORE LOCATION BASED ANALYSIS
-    Hell's Kitchen had the highest sales of $ 2,36,511 among all store locations. 
+STORE LOCATION BASED ANALYSIS - Hell's Kitchen had the highest sales of $ 2,36,511 among all store locations. 
 
-TOP PRODUCT SALES
-    The top 3 product categories are Coffee, Tea, and Bakery, which collectively account for over half of the total sales. Coffee is the top performer, followed by Tea and Bakery, reflecting strong customer demand for beverages and complementary items. These categories present opportunities for targeted marketing and promotional strategies.
+TOP PRODUCT SALES - The top 3 product categories are Coffee, Tea, and Bakery, which collectively account for over half of the total sales. Coffee is the top performer, followed by Tea and Bakery, reflecting strong customer demand for beverages and complementary items. These categories present opportunities for targeted marketing and promotional strategies.
