@@ -44,9 +44,9 @@ The objective of this sales analysis project is to develop an interactive dashbo
 ## Insights Explanation
 
 TOP KPI’s
-Total Sales  : $699k
-Total Quantity Sold : 214470
-Total Orders : 149116
+1. Total Sales  : $699k
+2. Total Quantity Sold : 214470
+3. Total Orders : 149116
 
 DAILY AVERAGE SALE  - The  average sales refers to the average revenue or sales amount generated over the past six months. This metric provides insight into sales performance trends over a medium-term period. The business achieved an average daily sales  of $3,861 over the past six months.
 
